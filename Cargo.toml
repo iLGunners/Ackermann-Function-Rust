@@ -1,0 +1,5 @@
+[package]
+
+name = "ackermann-function-rust"
+version = "0.1.0"
+authors = ["Mujtaba Nowshad <mujtabanowshad@gmail.com>"]
